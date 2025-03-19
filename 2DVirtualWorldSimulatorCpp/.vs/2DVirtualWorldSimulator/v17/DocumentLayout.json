@@ -1,0 +1,624 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sow_thistle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Grass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Grass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Belladonna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Belladonna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Wolf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Wolf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Turtle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Turtle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sheep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sheep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Fox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Fox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Antelope.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Antelope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Reports.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Plant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Organism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Organism.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sow_thistle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Sosnowsky_hogweed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Plant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084F00B3-6500-43FB-B70D-218D31E2B9DA}|2DVirtualWorldSimulator\\2DVirtualWorldSimulator.vcxproj|solutionrelative:2DVirtualWorldSimulator\\Reports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Game.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Game.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:38.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Game.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Game.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\World.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\World.cpp",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAAGMBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sosnowsky_hogweed.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sosnowsky_hogweed.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guarana.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Guarana.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Guarana.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grass.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Grass.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Grass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grass.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Grass.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Grass.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Grass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Belladonna.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Belladonna.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Belladonna.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\main.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\main.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\main.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sow_thistle.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sow_thistle.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sow_thistle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Belladonna.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Belladonna.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Belladonna.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Belladonna.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wolf.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Wolf.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Wolf.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wolf.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Wolf.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Wolf.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Wolf.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Turtle.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Turtle.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Turtle.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Turtle.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Turtle.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Turtle.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Turtle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sheep.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sheep.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sheep.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sheep.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sheep.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sheep.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sheep.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fox.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Fox.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Fox.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Fox.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Fox.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Fox.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Fox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Animal.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Animal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Antelope.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Antelope.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Antelope.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Antelope.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Antelope.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Antelope.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Antelope.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Animal.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Animal.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Animal.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Defines.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Defines.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Defines.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Defines.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Defines.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Reports.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Reports.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Reports.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Plant.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Plant.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Plant.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Organism.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Organism.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Organism.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "World.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\World.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\World.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\World.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.cpp",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Human.cpp",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.cpp",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Human.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:59:39.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Human.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Human.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Human.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Human.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Organism.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Organism.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Organism.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Organism.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sow_thistle.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sow_thistle.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sow_thistle.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sow_thistle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sosnowsky_hogweed.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Sosnowsky_hogweed.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Sosnowsky_hogweed.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Sosnowsky_hogweed.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Guarana.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Guarana.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Guarana.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Guarana.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Plant.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Plant.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Plant.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Plant.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Reports.h",
+              "DocumentMoniker": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.h",
+              "RelativeDocumentMoniker": "2DVirtualWorldSimulator\\Reports.h",
+              "ToolTip": "C:\\Users\\Monika\\Desktop\\STUDIA\\II semestr\\Object Programming\\project\\2DVirtualWorldSimulator\\2DVirtualWorldSimulator\\Reports.h",
+              "RelativeToolTip": "2DVirtualWorldSimulator\\Reports.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T22:59:39.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAIwJIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-04-18T23:30:50.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
