@@ -36,7 +36,7 @@
 
 <p>Visualization in the C++ version is achieved using ASCII characters:</p>
 <img src="https://github.com/user-attachments/assets/a48336ff-7aae-464f-97ad-10ff576a54c0" alt="ASCII Visualization 1">
-<br>
+<br><br>
 <img src="https://github.com/user-attachments/assets/ef708952-c459-4ab0-9977-2dceded1464a" alt="ASCII Visualization 2">
 
 <p><em>To run the C++ simulation, execute the main file.</em></p>
@@ -46,6 +46,6 @@
 <p>The Python version extends the C++ version with the addition of the Cyber Sheep and utilizes the Pygame library for graphical visualization:</p>
 
 <img src="https://github.com/user-attachments/assets/f6f2b542-d71f-4076-b0cf-cfcb45438502" alt="Pygame Visualization 1">
-<br>
+<br><br>
 <img src="https://github.com/user-attachments/assets/b2ff845d-5280-4947-8c6b-c4f45f72b768" alt="Pygame Visualization 2">
 <p><em>To run the Python simulation, execute the <code>Menu.py</code> file.</em></p>
